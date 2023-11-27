@@ -1,0 +1,37 @@
+2023-11-28 00:49:56.087 [main] INFO  org.example.Main - Start of Execution
+2023-11-28 00:50:08.465 [main] INFO  org.example.Main - START OP: Add
+2023-11-28 00:50:08.473 [main] INFO  org.example.Main - [ADDITION OPERATION] [SUCCESS] 1.0+2.0
+2023-11-28 00:50:08.474 [main] INFO  org.example.Main - [ADDITION OPERATION] [RESULT] 3.0
+2023-11-28 00:50:08.475 [main] INFO  org.example.Main - END OP: Add
+2023-11-28 00:56:10.476 [main] INFO  org.example.Main - START OP: Add
+2023-11-28 00:56:10.485 [main] INFO  org.example.Main - [ADDITION OPERATION] [SUCCESS] 1.0+2.0
+2023-11-28 00:56:10.485 [main] INFO  org.example.Main - [ADDITION OPERATION] [RESULT] 3.0
+2023-11-28 00:56:10.485 [main] INFO  org.example.Main - END OP: Add
+2023-11-28 00:56:10.487 [main] INFO  org.example.Main - START OP: Mult
+2023-11-28 00:56:10.488 [main] INFO  org.example.Main - [MULTIPLICATION OPERATION] [SUCCESS] 2.0*3.0
+2023-11-28 00:56:10.488 [main] INFO  org.example.Main - [MULTIPLICATION OPERATION] [RESULT] 6.0
+2023-11-28 00:56:10.489 [main] INFO  org.example.Main - END OP: Mult
+2023-11-28 00:56:10.490 [main] INFO  org.example.Main - START OP: Mult
+2023-11-28 00:56:10.490 [main] INFO  org.example.Main - [MULTIPLICATION OPERATION] [SUCCESS] 2.0*3.0
+2023-11-28 00:56:10.491 [main] INFO  org.example.Main - [MULTIPLICATION OPERATION] [RESULT] 6.0
+2023-11-28 00:56:10.491 [main] INFO  org.example.Main - END OP: Mult
+2023-11-28 00:56:10.492 [main] INFO  org.example.Main - START OP: Div
+2023-11-28 00:56:10.493 [main] INFO  org.example.Main - [DIVISION OPERATION] [SUCCESS] 2.0/2.0
+2023-11-28 00:56:10.494 [main] INFO  org.example.Main - [DIVISION OPERATION] [RESULT] 1.0
+2023-11-28 00:56:10.494 [main] INFO  org.example.Main - END OP: Div
+2023-11-28 00:56:10.495 [main] INFO  org.example.Main - START OP: Div
+2023-11-28 00:56:10.496 [main] INFO  org.example.Main - [DIVISION OPERATION] [SUCCESS] 2.0/2.0
+2023-11-28 00:56:10.496 [main] INFO  org.example.Main - [DIVISION OPERATION] [RESULT] 1.0
+2023-11-28 00:56:10.496 [main] INFO  org.example.Main - END OP: Div
+2023-11-28 00:56:10.498 [main] INFO  org.example.Main - START OP: Sub
+2023-11-28 00:56:10.499 [main] INFO  org.example.Main - [SUBTRACTION OPERATION] [SUCCESS] 2.0-2.0
+2023-11-28 00:56:10.500 [main] INFO  org.example.Main - [SUBTRACTION OPERATION] [RESULT] 0.0
+2023-11-28 00:56:10.500 [main] INFO  org.example.Main - END OP: Sub
+2023-11-28 00:56:10.501 [main] INFO  org.example.Main - START OP: Sub
+2023-11-28 00:56:10.501 [main] INFO  org.example.Main - [SUBTRACTION OPERATION] [SUCCESS] 2.0-2.0
+2023-11-28 00:56:10.501 [main] INFO  org.example.Main - [SUBTRACTION OPERATION] [RESULT] 0.0
+2023-11-28 00:56:10.502 [main] INFO  org.example.Main - END OP: Sub
+2023-11-28 00:56:10.502 [main] INFO  org.example.Main - START OP: Add
+2023-11-28 00:56:10.503 [main] INFO  org.example.Main - [ADDITION OPERATION] [SUCCESS] 1.0+2.0
+2023-11-28 00:56:10.503 [main] INFO  org.example.Main - [ADDITION OPERATION] [RESULT] 3.0
+2023-11-28 00:56:10.504 [main] INFO  org.example.Main - END OP: Add
