@@ -12,7 +12,7 @@ public class Main {
         double num1, num2;
         logger.info("Start of Execution");
 
-        System.out.println("----------Calculator!------------");
+        System.out.println("----------Calculator------------");
         do{
             System.out.println("Choices of Operations:");
             System.out.println("");
